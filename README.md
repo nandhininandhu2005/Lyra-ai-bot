@@ -1,8 +1,8 @@
-# 🤖 Sage AI - Telegram Bot — READY TO RUN
+# 🤖 Lyra AI - Telegram Bot — READY TO RUN
 
 ## 📁 Your folder should look like this:
 ```
-sage-ai-bot/
+Lyra AI - Telegram Bot/
 ├── index.js              ✅ (already filled with your keys)
 ├── firebase.js           ✅ (database helper)
 ├── firebase-key.json     ⬅️ RENAME your downloaded Firebase JSON to this
